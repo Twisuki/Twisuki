@@ -1,4 +1,6 @@
 
+[web版自我介绍, 更全面更美观](http://twisuki.github.io)
+
 <a id="top" />
 
 - [基本信息 Infomation](#info)
