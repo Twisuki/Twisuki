@@ -87,8 +87,12 @@
 ## 我的仓库 My Repositories
 
 - [Twisuki.github.io](http://github.com/twisuki/twisuki.github.io)
-	- Github个人首页, 自我介绍
+	- Github Page首页, 自我介绍
 	- HtML, CSS, JavaScript, MarkDown
+
+- [Twisuki](http://github.com/Twisuki)
+	- Github个人首页README.md, 自我介绍
+	- MarkDown
 
 - [yisibite](http://github.com/twisuki/yisibite)
 	- 弦月档案 - 火弦月投影下载处
