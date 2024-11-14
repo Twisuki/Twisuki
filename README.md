@@ -61,11 +61,11 @@
 #### 从现在开始, 打算专心经营自己的Github账号了, 在这里可以学到好多新东西.
 #### From now on, I plan to focus on managing my Github account, where I can learn a lot of new things.
 
-![<img src="src/snake.svg" />](https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake-dark.svg)
+![![Github贪吃蛇](src/snake.svg)](https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake-dark.svg)
 
 <div style="float: left">访问总数: <br /> Total Visited:</div>
 
-![<img src="src/count.svg" />](https://profile-counter.glitch.me/twisuki/count.svg)
+![![访问总数](src/count.svg)](https://profile-counter.glitch.me/twisuki/count.svg)
 
 <div style="float: left; margin-left: 50px;">常用语言: <br /> Top Language:</div>
 
