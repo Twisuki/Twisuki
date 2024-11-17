@@ -12,7 +12,7 @@
                     dur='3400ms' fill='freeze'
                     values='m0,37.5 h0 ; m0,37.5 h500 ; m0,37.5 h500 ; m0,37.5 h500' keyTimes='0;0.56470588235294;0.85882352941176;1' />
                     </path>
-    <text font-family='"Arial", monospace' fill='#44FF69' font-size='50' font-weight='bold'
+    <text font-family='"Arial", monospace' fill='#36BCF7' font-size='50' font-weight='bold'
         dominant-baseline='auto'
         x='0%' text-anchor='start'
         letter-spacing='normal'>
