@@ -61,11 +61,18 @@
 #### 从现在开始, 打算专心经营自己的Github账号了, 在这里可以学到好多新东西.
 #### From now on, I plan to focus on managing my Github account, where I can learn a lot of new things.
 
-![![Github贪吃蛇](src/snake.svg)](https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake-dark.svg)
+<picture>
+	<source  media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake-dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake.svg">
+	<img src="src/snake.svg" />
+</picture>
 
 <div style="float: left">访问总数: <br /> Total Visited:</div>
 
-![![访问总数](src/count.svg)](https://profile-counter.glitch.me/twisuki/count.svg)
+<picture style="float: left; margin-top: 10px; margin-left: 50px">
+	<source setsrc="https://profile-counter.glitch.me/twisuki/count.svg" />
+	<img src="src/count.svg" />
+</picture>
 
 <div style="float: left; margin-left: 50px;">常用语言: <br /> Top Language:</div>
 
@@ -83,12 +90,8 @@
 ## 我的仓库 My Repositories
 
 - [Twisuki.github.io](http://github.com/twisuki/twisuki.github.io)
-	- Github Page首页, 自我介绍
+	- Github个人首页, 自我介绍
 	- HtML, CSS, JavaScript, MarkDown
-
-- [Twisuki](http://github.com/Twisuki)
-	- Github个人首页README.md, 自我介绍
-	- MarkDown
 
 - [yisibite](http://github.com/twisuki/yisibite)
 	- 弦月档案 - 火弦月投影下载处
