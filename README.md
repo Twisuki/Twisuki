@@ -62,15 +62,15 @@
 #### From now on, I plan to focus on managing my Github account, where I can learn a lot of new things.
 
 <picture>
-	<source  media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake-dark.svg" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake-dark.svg" />
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake.svg">
-	<img src="src/snake.svg" />
+	<img src="src/snake-light.svg" />
 </picture>
 
 <div style="float: left">访问总数: <br /> Total Visited:</div>
 
 <picture style="float: left; margin-top: 10px; margin-left: 50px">
-	<source setsrc="https://profile-counter.glitch.me/twisuki/count.svg" />
+	<source srcset="https://profile-counter.glitch.me/twisuki/count.svg" />
 	<img src="src/count.svg" />
 </picture>
 
@@ -90,8 +90,12 @@
 ## 我的仓库 My Repositories
 
 - [Twisuki.github.io](http://github.com/twisuki/twisuki.github.io)
-	- Github个人首页, 自我介绍
+	- Github Page首页, 自我介绍
 	- HtML, CSS, JavaScript, MarkDown
+
+- [Twisuki](http://github.com/Twisuki)
+	- Github个人首页README.md, 自我介绍
+	- MarkDown
 
 - [yisibite](http://github.com/twisuki/yisibite)
 	- 弦月档案 - 火弦月投影下载处
