@@ -14,20 +14,20 @@
 
 ## 欢迎
 
-<!-- <img src="src/titleType.svg" height="50px"/> -->
-<picture height="50px">
-	<source media="(prefers-color-scheme: dark)" srcset="src/titleType.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="src/titleType-light.svg" />
-	<img src="src/titleType.svg" />
+<br />
+
+<picture>
+	<source height="50px" media="(prefers-color-scheme: dark)" srcset="src/titleType.svg" />
+	<source height="50px" media="(prefers-color-scheme: light)" srcset="src/titleType-light.svg" />
+	<img height="50px" src="src/titleType.svg" />
 </picture>
 
 <br />
 
-<!-- <img src="src/titleType-en.svg" height="40px"/> -->
-<picture height="30px">
-	<source media="(prefers-color-scheme: dark)" srcset="src/titleType-en.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="src/titleType-en-light.svg" />
-	<img src="src/titleType-en.svg" />
+<picture>
+	<source height="40px" media="(prefers-color-scheme: dark)" srcset="src/titleType-en.svg" />
+	<source height="40px" media="(prefers-color-scheme: light)" srcset="src/titleType-en-light.svg" />
+	<img height="40px" src="src/titleType-en.svg" />
 </picture>
 
 ### qwq, 咱是苏阳, 可以直接叫咱苏喵的
