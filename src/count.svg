@@ -27,22 +27,22 @@
 
         <rect id="Rectangle" fill="#000000" x="96" y="0.5" width="29" height="29"></rect>
         <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-            <tspan x="103" y="22">0</tspan>
+            <tspan x="103" y="22">1</tspan>
         </text>
 
         <rect id="Rectangle" fill="#000000" x="128" y="0.5" width="29" height="29"></rect>
         <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-            <tspan x="135" y="22">1</tspan>
+            <tspan x="135" y="22">8</tspan>
         </text>
 
         <rect id="Rectangle" fill="#000000" x="160" y="0.5" width="29" height="29"></rect>
         <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-            <tspan x="167" y="22">6</tspan>
+            <tspan x="167" y="22">1</tspan>
         </text>
 
         <rect id="Rectangle" fill="#000000" x="192" y="0.5" width="29" height="29"></rect>
         <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-            <tspan x="199" y="22">8</tspan>
+            <tspan x="199" y="22">6</tspan>
         </text>
 
     </g>
