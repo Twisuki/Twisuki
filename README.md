@@ -18,7 +18,7 @@
 <picture height="50px">
 	<source media="(prefers-color-scheme: dark)" srcset="src/titleType.svg" />
 	<source media="(prefers-color-scheme: light)" srcset="src/titleType-light.svg" />
-	<img src="src/titleType.svg />
+	<img src="src/titleType.svg" />
 </picture>
 
 <br />
