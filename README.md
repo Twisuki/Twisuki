@@ -14,11 +14,14 @@
 
 ## 欢迎
 
-<img src="src/round.png" width="250px" height="250px" align="right">
+<img src="src/round.png" width="250px" height="250px" align="right" />
+
+<br />
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="src/titleType.svg" />
 	<source media="(prefers-color-scheme: light)" srcset="src/titleType-light.svg" />
+	<img height="50px" src="src/titleType.svg" />
 </picture>
 
 <br />
@@ -26,6 +29,7 @@
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="src/titleType-en.svg" />
 	<source media="(prefers-color-scheme: light)" srcset="src/titleType-en-light.svg" />
+	<img height="40px" src="src/titleType-en.svg" />
 </picture>
 
 ### qwq, 咱是苏阳, 可以直接叫咱苏喵的
