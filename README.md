@@ -14,20 +14,18 @@
 
 ## 欢迎
 
-<br />
+<img src="src/round.png" width="250px" height="250px" align="right">
 
 <picture>
-	<source height="50px" media="(prefers-color-scheme: dark)" srcset="src/titleType.svg" />
-	<source height="50px" media="(prefers-color-scheme: light)" srcset="src/titleType-light.svg" />
-	<img height="50px" src="src/titleType.svg" />
+	<source media="(prefers-color-scheme: dark)" srcset="src/titleType.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="src/titleType-light.svg" />
 </picture>
 
 <br />
 
 <picture>
-	<source height="40px" media="(prefers-color-scheme: dark)" srcset="src/titleType-en.svg" />
-	<source height="40px" media="(prefers-color-scheme: light)" srcset="src/titleType-en-light.svg" />
-	<img height="40px" src="src/titleType-en.svg" />
+	<source media="(prefers-color-scheme: dark)" srcset="src/titleType-en.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="src/titleType-en-light.svg" />
 </picture>
 
 ### qwq, 咱是苏阳, 可以直接叫咱苏喵的
@@ -103,13 +101,21 @@
 	- Github Page首页, 自我介绍
 	- HtML, CSS, JavaScript, MarkDown
 
-- [Twisuki](http://github.com/Twisuki)
+- [Twisuki](http://github.com/Twisuki/Twisuki)
 	- Github个人首页README.md, 自我介绍
 	- MarkDown
 
 - [yisibite](http://github.com/twisuki/yisibite)
 	- 弦月档案 - 火弦月投影下载处
 	- HTML, CSS, JSON, JavaScript
+
+- [Numdle](https://github.com/Twisuki/Numdle)
+	- wordle小游戏自创衍生版
+	- C++, Java, Python, Kotlin
+
+- [Notes-on-Linear-Algebra](https://github.com/Twisuki/Notes-on-Linear-Algebra)
+	- 线性代数学习笔记
+	- MarkDown, LaTeX
 
 - [PlumMusic](https://github.com/Twisuki/PlumMusic)
 	- Plum音乐盒, 个人练习作品
