@@ -127,13 +127,17 @@
 
 ## 我的复刻 My Forked Repositories
 
+- [nonebot-plugin-marshoai](https://github.com/Twisuki/nonebot-plugin-marshoai)
+	- MarshoAI, 进行了Tools文档的翻译
+	- Forked from [LiteyukiStudio](https://github.com/LiteyukiStudio)[nonebot-plugin-marshoai](https://github.com/LiteyukiStudio/nonebot-plugin-marshoai)
+
 - [MyYuhan2680](https://github.com/Twisuki/MyYuhan2680)
 	- 涵酱的自我介绍, 修复了Github贪吃蛇
-	- Frokrd from [yuhan2680](https://github.com/yuhan2680)[/yuhan2680](https://github.com/yuhan2680/yuhan2680)
+	- Froked from [yuhan2680](https://github.com/yuhan2680)[/yuhan2680](https://github.com/yuhan2680/yuhan2680)
 
 - [Dress](https://github.com/Twisuki/Dress)
 	- 著名的Dress库, 好耶 是女装 ~
-	- Frokrd from [Cute-Dress](https://github.com/Cute-Dress)[/Dress](https://github.com/Cute-Dress/Dress)
+	- Froked from [Cute-Dress](https://github.com/Cute-Dress)[/Dress](https://github.com/Cute-Dress/Dress)
 
 ## 我的请求 My PR Repositories
 
