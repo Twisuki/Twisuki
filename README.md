@@ -127,9 +127,13 @@
 
 ## 我的复刻 My Forked Repositories
 
+- [marsho-toolsets](https://github.com/Twisuki/marsho-toolsets)
+	- MarshoAI插件 MegaKits
+	- Forked from [LiteyukiStudio](https://github.com/LiteyukiStudio)[/marsho-toolsets](https://github.com/LiteyukiStudio/marsho-toolsets)
+
 - [nonebot-plugin-marshoai](https://github.com/Twisuki/nonebot-plugin-marshoai)
 	- MarshoAI, 进行了Tools文档的翻译
-	- Forked from [LiteyukiStudio](https://github.com/LiteyukiStudio)[nonebot-plugin-marshoai](https://github.com/LiteyukiStudio/nonebot-plugin-marshoai)
+	- Forked from [LiteyukiStudio](https://github.com/LiteyukiStudio)[/nonebot-plugin-marshoai](https://github.com/LiteyukiStudio/nonebot-plugin-marshoai)
 
 - [MyYuhan2680](https://github.com/Twisuki/MyYuhan2680)
 	- 涵酱的自我介绍, 修复了Github贪吃蛇
