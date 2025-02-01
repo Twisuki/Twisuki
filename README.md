@@ -34,7 +34,7 @@
 - 现就读于湖南大学, 学习人工智能
     - Learning AI in HNU.
 
-## 自设/属性 Liked & Attributes
+## 自设/属性 Likes & Attributes
 
 - 是一只什么都会一点又什么都不精的猫猫哒
     - There is a cat that knows everything, but a little bit.
@@ -116,7 +116,7 @@
     - TapTap : [Su_Yang_233](https://www.taptap.cn/user/555290621)
     - Xbox : [Nya Twisuki](https://www.xbox.com/zh-CN/play/user/Nya%20Twisuki)
 
-## 访问总数 Vistors
+## 访问总数 Visitors
 
 <picture style="float: left; margin-top: 10px; margin-left: 50px">
 	<source srcset="https://profile-counter.glitch.me/twisuki/count.svg" />
