@@ -43,7 +43,7 @@
 - 喜欢毛茸茸的东西, 喜欢到处贴贴~
     - I love fluffy things and enjoy cuddling with everything around~
 - 有一对可以收起来, 随着情绪变化的小猫耳
-    - Has a pair of cat ears that can be tucked away and change according to emotions
+    - Has a pair of cat ears that can be tucked away and change according to emotions.
 - 性取向为泛性恋, 性别存疑(?), 目前认为无性
     - Sexual orientation is Pansexual, gender is uncertain(?), currently considered Agender.
 
