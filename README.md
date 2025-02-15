@@ -18,13 +18,13 @@
 
 ## 个人简介 Profile
 
-[![Steam](https://img.shields.io/badge/Su__Yang__233-black.svg?logo=Steam)](https://steamcommunity.com/profiles/76561199387291268/)
-[![Minecraft](https://img.shields.io/badge/Minecraft-Nya__Twisuki-green.svg?labelColor=green&color=yellowgreen)](https://namemc.com/profile/Nya_Twisuki)
-[![Bilibili](https://img.shields.io/badge/Nya__Twisuki-pink.svg?logo=Bilibili)](https://space.bilibili.com/317707977)
+[![Steam](https://img.shields.io/badge/Su__Yang__233-black.svg?logo=Steam)](https://steamcommunity.com/profiles/76561199387291268/)  
+[![Minecraft](https://img.shields.io/badge/Minecraft-Nya__Twisuki-green.svg?labelColor=green&color=yellowgreen)](https://namemc.com/profile/Nya_Twisuki)  
+[![Bilibili](https://img.shields.io/badge/Nya__Twisuki-pink.svg?logo=Bilibili)](https://space.bilibili.com/317707977)  
 
-![Name](https://img.shields.io/badge/Nya__Twisuki-SuYang233-blue)
-![University](https://img.shields.io/badge/AI-HNU-red)
-![Gender](https://img.shields.io/badge/Agender-Pansexual-aqua)
+![Name](https://img.shields.io/badge/Nya__Twisuki-SuYang233-blue)  
+![University](https://img.shields.io/badge/AI-HNU-red)  
+![Gender](https://img.shields.io/badge/Agender-Pansexual-aqua)  
 
 
 - 我是Twisuki, 中文名苏阳, 可以直接叫咱苏喵哒 ~
