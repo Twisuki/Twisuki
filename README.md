@@ -88,7 +88,7 @@
 ![Twisuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twisuki&show_icons=true&count_private=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Twisuki&background=003f2f&stroke=d0e9ff&ring=a2d8f4&dates=d0e9ff&sideNums=a2d8f4&currStreakNum=a2d8f4&excludeDaysLabel=d0e9ff&sideLabels=d0e9ffdd&currStreakLabel=a2d8f4" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twisuki)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twisuki&hide=html,jupyter%20notebook&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Twisuki)
 
