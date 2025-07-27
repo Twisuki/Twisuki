@@ -24,7 +24,7 @@
 
 ![Name](https://img.shields.io/badge/Nya__Twisuki-SuYang233-blue)
 ![University](https://img.shields.io/badge/AI-HNU-red)
-![Gender](https://img.shields.io/badge/Agender-Pansexual-aqua)
+![Gender](https://img.shields.io/badge/Agender-Trans-aqua)
 
 
 - 我是Twisuki, 中文名苏阳, 可以直接叫咱苏喵哒 ~
@@ -44,8 +44,8 @@
     - I love fluffy things and enjoy cuddling with everything around~
 - 有一对可以收起来, 随着情绪变化的小猫耳
     - Has a pair of cat ears that can be tucked away and change according to emotions.
-- 性取向为泛性恋, 性别存疑(?), 目前认为无性
-    - Sexual orientation is Pansexual, gender is uncertain(?), currently considered Agender.
+- 性取向为泛性恋, 性别存疑(?), 目前认为无性(现已翻车)
+    - Sexual orientation is Pansexual, gender is uncertain(?), currently considered Agender(now identifies as trans(mtf)).
 
 
 ## 开发概况 Development
