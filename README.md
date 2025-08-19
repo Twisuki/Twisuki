@@ -50,13 +50,13 @@
 
 ## 开发概况 Development
 
-- 正在学习Python和web前端, 大部分贡献都是静态网页
+- 正在学习Python和web前端, 大部分贡献都是静态网页.
     - I am learning Python and web frontend, and most of the contribution are for static web pages.
 - 目前为[轻雪工作室](https://github.com/LiteyukiStudio)的一员, 负责部分前端开发.
     - Currently, I am a member of [LiteyukiStudio](https://github.com/LiteyukiStudio), responsible for parts of frontend.
 - 同时也是[GTMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)的一位编辑, 负责[T版绿萌教程](https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F)的编写工作.
     - I am also a editor at [GTMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC), in charge of compiling the [T-Ver. SlimeTech](https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F).
-- 此外, 本人还是湖南大学机器人学院[桃子湖工作站](https://github.com/TZLakeStudio)的站长
+- 此外, 本人还是湖南大学机器人学院[桃子湖工作站](https://github.com/TZLakeStudio)的站长.
     - Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robotics, HNU.
 
 [![Liteyuki](https://img.shields.io/badge/Twisuki-Liteyuki-lightblue)](https://github.com/LiteyukiStudio)
