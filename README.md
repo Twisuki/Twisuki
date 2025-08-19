@@ -52,10 +52,12 @@
 
 - 正在学习Python和web前端, 大部分贡献都是静态网页
     - I am learning Python and web frontend, and most of the contribution are for static web pages.
-- 目前为[轻雪工作室](https://github.com/LiteyukiStudio)的一员, 负责MarshoAI的插件开发.
-    - Currently, I am a member of [LiteyukiStudio](https://github.com/LiteyukiStudio), responsible for plugin development for MarshoAI.
+- 目前为[轻雪工作室](https://github.com/LiteyukiStudio)的一员, 负责部分前端开发.
+    - Currently, I am a member of [LiteyukiStudio](https://github.com/LiteyukiStudio), responsible for parts of frontend.
 - 同时也是[GTMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)的一位编辑, 负责[T版绿萌教程](https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F)的编写工作.
     - I am also a editor at [GTMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC), in charge of compiling the [T-Ver. SlimeTech](https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F).
+- 此外, 本人还是湖南大学机器人学院[桃子湖工作站](https://github.com/TZLakeStudio)的站长
+    - Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robotics, HNU.
 
 [![Liteyuki](https://img.shields.io/badge/Twisuki-Liteyuki-lightblue)](https://github.com/LiteyukiStudio)
 [![GTMC](https://img.shields.io/badge/苏阳-GTMC-green)](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
@@ -93,12 +95,10 @@ Twisuki                  2 hrs 25 mins       ██░░░░░░░░░�
 
 ## 我的仓库 Repository
 
-
-[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=Twisuki)](https://github.com/Twisuki/Twisuki)
+[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=Twisuki.github.io)](https://github.com/Twisuki/Twisuki.github.io)
+[![学生手册](https://github-readme-stats.vercel.app/api/pin/?username=TZLakeStudio&repo=Application)](https://github.com/TZLakeStudio/Application)
+[![djLint](https://github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=djLint)](https://github.com/Twisuki/djLint)
 [![GTMC](https://github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=GraduateTextsInTechnicalMC)](https://github.com/Twisuki/GraduateTextsInTechnicalMC)
-
-[![MarshoAI](https://github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=nonebot-plugin-marshoai)](https://github.com/Twisuki/nonebot-plugin-marshoai)
-
 [![Dress](https://github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=Dress)](https://github.com/Twisuki/Dress)
 
 ## 一些外链 Links
@@ -137,7 +137,6 @@ Twisuki                  2 hrs 25 mins       ██░░░░░░░░░�
 - 其他 Others
 
     - Pixiv : [Twisuki Nya](https://www.pixiv.net/users/108499312)
-    - GeoGebra : [Su_Yang_233](https://www.geogebra.org/u/cat_su)
     - TapTap : [Su_Yang_233](https://www.taptap.cn/user/555290621)
     - Xbox : [Nya Twisuki](https://www.xbox.com/zh-CN/play/user/Nya%20Twisuki)
 
