@@ -63,7 +63,29 @@
 [![GTMC](https://img.shields.io/badge/苏阳-GTMC-green)](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-484.1%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2052%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-484.7%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+🔥 Editors: 
+PyCharm                  11 hrs 9 mins       ███████████████████░░░░░░   75.13 % 
+WebStorm                 2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+PowerPoint               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Excel                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+
+🐱‍💻 Projects: 
+GemAudit                 11 hrs 12 mins      ███████████████████░░░░░░   75.53 % 
+nuxt-intro               2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Unknown Project          1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+homepage                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Application              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
 
 
 <!--END_SECTION:waka-->
