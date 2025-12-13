@@ -109,8 +109,6 @@ yqwork-2023              9 mins              ██░░░░░░░░░�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twisuki&hide=html,jupyter%20notebook&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Twisuki)
-
 ![](https://github-contributor-stats.vercel.app/api?username=Twisuki&limit=15&combine_all_yearly_contributions=true)
 
 ## 联系方式 Contact me
@@ -141,9 +139,3 @@ yqwork-2023              9 mins              ██░░░░░░░░░�
     - TapTap : [Su_Yang_233](https://www.taptap.cn/user/555290621)
     - Xbox : [Nya Twisuki](https://www.xbox.com/zh-CN/play/user/Nya%20Twisuki)
 
-## 访问总数 Visitors
-
-<picture style="float: left; margin-top: 10px; margin-left: 50px">
-	<source srcset="https://profile-counter.glitch.me/twisuki/count.svg" />
-	<img src="src/count.svg" />
-</picture>
