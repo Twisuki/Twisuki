@@ -63,26 +63,7 @@
 [![GTMC](https://img.shields.io/badge/苏阳-GTMC-green)](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%202%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-551.14%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-🔥 Editors: 
-WebStorm                 47 mins             ██████████████░░░░░░░░░░░   55.90 % 
-Excel                    32 mins             ██████████░░░░░░░░░░░░░░░   38.74 % 
-Word                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-
-🐱‍💻 Projects: 
-Unknown Project          37 mins             ███████████░░░░░░░░░░░░░░   44.10 % 
-front                    28 mins             ████████░░░░░░░░░░░░░░░░░   32.95 % 
-mizuki                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-HMOIndex                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-551.15%20thousand%20lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
