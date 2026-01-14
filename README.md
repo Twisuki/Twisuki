@@ -16,6 +16,10 @@
 	<img height="40px" src="src/titleType-en.svg" />
 </picture>
 
+<br/>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Twisuki&theme=xcode&hide_border=true)
+
 ## 个人简介 Profile
 
 [![Steam](https://img.shields.io/badge/Su__Yang__233-black.svg?logo=Steam)](https://steamcommunity.com/profiles/76561199387291268/)
@@ -27,40 +31,55 @@
 ![Gender](https://img.shields.io/badge/Agender-Trans-aqua)
 
 
-- 我是Twisuki, 中文名苏阳, 可以直接叫咱苏喵哒 ~
-    - I'm Twisuki, Su Yang in Chinese.
-- 来自辽宁的一只猫~
-    - A cat/neko from Liaoning Province, China.
-- 现就读于湖南大学, 学习人工智能
-    - Learning AI in HNU.
-
-## 自设/属性 Likes & Attributes
-
-- 是一只什么都会一点又什么都不精的猫猫哒
-    - There is a cat that knows everything, but a little bit.
-- 喜欢二次元, MBTI是ISFP
-    - Loves ACG and MBTI is ISFP.
-- 喜欢毛茸茸的东西, 喜欢到处贴贴~
-    - I love fluffy things and enjoy cuddling with everything around~
-- 有一对可以收起来, 随着情绪变化的小猫耳
-    - Has a pair of cat ears that can be tucked away and change according to emotions.
-- 性取向为泛性恋, 性别存疑(?), 目前认为无性(现已翻车)
-    - Sexual orientation is Pansexual, gender is uncertain(?), currently considered Agender(now identifies as trans(mtf)).
-
+- 我是 Twisuki, 中文名苏阳,来自辽宁.
+    - I'm Twisuki, Su_Yang in Chinese, from Liaoning Province, China.
+- 现就读于湖南大学, 学习人工智能.
+    - Learning AI in HNU now.
 
 ## 开发概况 Development
 
-- 正在学习Python和web前端, 大部分贡献都是静态网页.
-    - I am learning Python and web frontend, and most of the contribution are for static web pages.
-- 目前为[轻雪工作室](https://github.com/LiteyukiStudio)的一员, 负责部分前端开发.
-    - Currently, I am a member of [LiteyukiStudio](https://github.com/LiteyukiStudio), responsible for parts of frontend.
-- 同时也是[GTMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)的一位编辑, 负责[T版绿萌教程](https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F)的编写工作.
-    - I am also a editor at [GTMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC), in charge of compiling the [T-Ver. SlimeTech](https://techmc.wiki/#/SlimeTech/Twisuki/%E5%BA%8F).
-- 此外, 本人还是湖南大学机器人学院[桃子湖工作站](https://github.com/TZLakeStudio)的站长.
-    - Also, I am the leader of [TZLakeStudio](https://github.com/TZLakeStudio) in Robotics, HNU.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-[![Liteyuki](https://img.shields.io/badge/Twisuki-Liteyuki-lightblue)](https://github.com/LiteyukiStudio)
-[![GTMC](https://img.shields.io/badge/苏阳-GTMC-green)](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white)
+![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=Nuxt&logoColor=white)
+![Next](https://img.shields.io/badge/-Next-000000?logo=Next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white)
+
+- 精通 Vue, React 和 web vanilla 前端.
+    - Proficient in Vue, React, and vanilla web frontend.
+- 正在学习后端, 主要是 Python 和 Rust.
+    - Learning backend now, mainly Python and Rust.
+- 目前在湖南大学某学生组织工作, 运维一个 React / Taro 小程序.
+    - Currently working in a student organization at Hunan University, maintaining a React/Taro mini program.
+
+<div> 
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <!-- 感谢上面两位开发者. / Thanks to the two developers above. -->
+  
+  <p align="left">
+    <a href="https://github.com/Twisuki/HMOIndex">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=HMOIndex" alt="HMOIndex">
+    </a>
+    <a href="https://github.com/Twisuki/blog">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=blog" alt="blog">
+    </a>
+    <a href="https://github.com/Twisuki/homepage">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=homepage" alt="homepage">
+    </a>
+    <a href="https://github.com/HMODeveloper/hmo_mms">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HMODeveloper&repo=hmo_mms" alt="hmo_mms">
+    </a>
+    <a href="https://github.com/TZLakeStudio/Application">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TZLakeStudio&repo=Application" alt="Application">
+    </a>
+  </p>
+</div>
+
+## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2051%20mins-blue?style=flat)
@@ -96,48 +115,14 @@ front                    14 mins             █░░░░░░░░░░�
 	<img src="src/snake-light.svg" />
 </picture>
 
-## 我的仓库 Repository
-
-[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=Twisuki.github.io)](https://github.com/Twisuki/Twisuki.github.io)
-[![学生手册](https://github-readme-stats.vercel.app/api/pin/?username=TZLakeStudio&repo=Application)](https://github.com/TZLakeStudio/Application)
-[![djLint](https://github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=djLint)](https://github.com/Twisuki/djLint)
-[![GTMC](https://github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=GraduateTextsInTechnicalMC)](https://github.com/Twisuki/GraduateTextsInTechnicalMC)
-[![Dress](https://github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=Dress)](https://github.com/Twisuki/Dress)
-
-## 一些外链 Links
-
-![Twisuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twisuki&show_icons=true&count_private=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Twisuki&background=003f2f&stroke=d0e9ff&ring=a2d8f4&dates=d0e9ff&sideNums=a2d8f4&currStreakNum=a2d8f4&excludeDaysLabel=d0e9ff&sideLabels=d0e9ffdd&currStreakLabel=a2d8f4" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twisuki&hide=html,jupyter%20notebook&layout=compact)
-
-![](https://github-contributor-stats.vercel.app/api?username=Twisuki&limit=15&combine_all_yearly_contributions=true)
-
 ## 联系方式 Contact me
 
-- 各个平台的账号 Account in other platforms
-  
-    - E-mail : [twisuki@outlook.com](twisuki@outlook.com)
-    - BiliBili : [Nya_Twisuki](https://space.bilibili.com/317707977)
-    - KOOK : Nya_Twisuki (#5313)
-    - Twitter : [Su_Yang_233](https://x.com/suyang_233)
-    - Discord : Twisuki
+- E-mail: [suyang233@hotmail.com](suyang233@hotmail.com)
+- BiliBili: [Nya_Twisuki](https://space.bilibili.com/317707977)
+- Twitter : [Su_Yang_233](https://x.com/suyang_233)
 
-- MC相关 Minecraft Related
+以及我会活跃的地方:
 
-    - Minecraft ID : Nya_Twisuki
-    - NameMC : [Nya_Twisuki](https://namemc.com/profile/Nya_Twisuki)
-    - Little Skin : [Su_Yang_233](https://littleskin.cn/skinlib/show/240295)
-
-- 开发相关 Development Related
-
-    - Github : [Twisuki](https://github.com/Twisuki)
-    - Gitee : [Su_Yang_233](https://gitee.com/scrohild)
-    - 洛谷 : [Twisuki](https://www.luogu.com.cn/user/1446667)
-
-- 其他 Others
-
-    - Pixiv : [Twisuki Nya](https://www.pixiv.net/users/108499312)
-    - TapTap : [Su_Yang_233](https://www.taptap.cn/user/555290621)
-    - Xbox : [Nya Twisuki](https://www.xbox.com/zh-CN/play/user/Nya%20Twisuki)
-
+- Minecraft : [Nya_Twisuki](https://namemc.com/profile/Nya_Twisuki)
+- Discord : Twisuki
+- KOOK : Nya_Twisuki (#5313)
