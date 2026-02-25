@@ -82,9 +82,9 @@
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-722%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-611.15%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-611.12%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,14 +92,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 6 hrs 4 mins        ███████████████████████░░   91.94 % 
-VS Code                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+WebStorm                 3 hrs               ███████████████████████░░   93.67 % 
+VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🐱‍💻 Projects: 
-hmo_mms                  6 hrs 19 mins       ████████████████████████░   95.60 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+hmo_mms                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
