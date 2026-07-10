@@ -84,7 +84,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C210%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-819.22%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-819.27%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,18 +92,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-WebStorm                 11 hrs 10 mins      ████████████████░░░░░░░░░   62.85 % 
-Claude Code              5 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
-Word                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Excel                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+WebStorm                 10 hrs 45 mins      ██████████████████░░░░░░░   71.92 % 
+Claude Code              4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+Excel                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-ohday                    16 hrs 3 mins       ███████████████████████░░   90.30 % 
-blog                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Unknown Project          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-代码.ipynb                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-taskify                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+ohday                    13 hrs 51 mins      ███████████████████████░░   92.64 % 
+blog                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
