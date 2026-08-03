@@ -82,28 +82,26 @@
 ## 近期动态 Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-223%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-224%20hrs%2021%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.44%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.60%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+💬 Programming Languages: 
+TypeScript               10 hrs 31 mins      ████████████░░░░░░░░░░░░░   46.10 % 
+Markdown                 5 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+C#                       1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Erlang                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 Editors: 
 Claude Code              13 hrs 15 mins      ███████████████░░░░░░░░░░   58.10 % 
 WebStorm                 8 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.10 % 
 Rider                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-
-🐱‍💻 Projects: 
-weihuda_weapp_tsumiki    8 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
-missevan-mobile          8 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.57 % 
-adofai-dglab             2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-ADOFAI_DGLab             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-ohday                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +126,20 @@ Opus                     4,192 lines         ███████████�
 🚀 High AI Trust — 19.71% of changed lines were hand-edited
 ```
 
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               16 repos            █████████░░░░░░░░░░░░░░░░   34.78 % 
+Vue                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+```
+
+
+
+
+ Last Updated on 2026-08-03 06:26:39 UTC
 <!--END_SECTION:waka-->
 
 <picture>
