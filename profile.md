@@ -80,24 +80,30 @@
 
 ## 近期动态 Recent Activity
 <!--CUSTOM_WAKA_START-->
-const totalSec = waka.all?.time ?? 0
-const codeHours = Math.floor(totalSec / 3600)
-const codeMins = Math.floor((totalSec % 3600) / 60)
-const codeHrUnit = codeHours === 1 ? 'hr' : 'hrs'
-const codeMinUnit = codeMins === 1 ? 'min' : 'mins'
-const codeTime = encodeURIComponent(
-  `${codeHours.toLocaleString('en-US')} ${codeHrUnit} ${codeMins} ${codeMinUnit}`
-)
+const formatTime = (seconds) => {
+  const h = Math.floor(seconds / 3600)
+  const m = Math.floor((seconds % 3600) / 60)
+  const hu = h === 1 ? 'hr' : 'hrs'
+  const mu = m === 1 ? 'min' : 'mins'
+  return encodeURIComponent(
+    `${h.toLocaleString('en-US')} ${hu} ${m} ${mu}`
+  )
+}
 
-const totalLines = (waka.all?.addition?.total ?? 0) + (waka.all?.deletion?.total ?? 0)
-const linesOfCode = encodeURIComponent(
-  (totalLines / 1000).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })
-)
+const formatLines = (total) => {
+  const v = (total / 1000).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })
+  return encodeURIComponent(`${v}k`)
+}
+
+const codeTimeWeek = formatTime(waka.week?.time ?? 0)
+const codeTimeAll = formatTime(waka.all?.time ?? 0)
+const linesOfCodeWeek = formatLines((waka.week?.addition?.total ?? 0) + (waka.week?.deletion?.total ?? 0))
+const linesOfCodeAll = formatLines((waka.all?.addition?.total ?? 0) + (waka.all?.deletion?.total ?? 0))
 
 const renderList = (items) => {
   if (!items) return ''
   const total = items.reduce((s, i) => s + i.time, 0)
-  return items.map(item => {
+  return items.slice(0, 5).map(item => {
     const h = Math.floor(item.time / 3600)
     const m = Math.floor((item.time % 3600) / 60)
     const hu = h === 1 ? 'hr' : 'hrs'
@@ -106,25 +112,31 @@ const renderList = (items) => {
     const percent = total > 0 ? (item.time / total) * 100 : 0
     const filled = Math.round(percent / 100 * 25)
     const bar = '█'.repeat(filled) + '░'.repeat(25 - filled)
-    return `${item.name.padEnd(22)}${time.padEnd(17)}${bar}${(percent.toFixed(2) + ' %').padStart(8)}`
+    return `- ${item.name.padEnd(22)}${time.padEnd(17)}${bar}${(percent.toFixed(2) + ' %').padStart(8)}`
   }).join('\n')
 }
 
 const languagesText = renderList(languages.week)
 const editorsText = renderList(editors.week)
 
-const lastUpdated = new Date().toISOString().slice(0, 19).replace('T', ' ') + ' UTC'
+const lastUpdated = new Date().toISOString().slice(0, 19).replace('T', ' ')
 <!--CUSTOM_WAKA_END-->
 
-![Code Time](https://img.shields.io/badge/Code%20Time-{codeTime}-blue?style=flat)
+This Week:
+![Code Time](https://img.shields.io/badge/Code%20Time-{codeTimeWeek}-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-{linesOfCodeWeek}-aqua?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-{linesOfCode}-thousand%20lines%20of%20code-blue?style=flat)
+From Hello World:
+![Code Time](https://img.shields.io/badge/Code%20Time-{codeTimeAll}-green?style=flat)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-{linesOfCodeAll}-lime?style=flat)
 
 ```text
 Top Languages This Week:
+
 {languagesText}
 
 And Top Editors:
+
 {editorsText}
 ```
 
