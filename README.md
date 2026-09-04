@@ -31,10 +31,12 @@
 ![Gender](https://img.shields.io/badge/Agender-Trans-aqua)
 
 
-- 我是 Twisuki, 中文名苏阳,来自辽宁.
+- 我是 Twisuki, 中文名苏阳, 来自辽宁.
     - I'm Twisuki, Su_Yang in Chinese, from Liaoning Province, China.
-- 现就读于湖南大学, 学习人工智能.
-    - Learning AI in HNU now.
+- 就读于湖南大学, 学习人工智能.
+    - Learning AI in HNU.
+- 现在在 bilibili 担任前端实习生.
+    - Currently, a front-end intern at bilibili.
 
 ## 开发概况 Development
 
@@ -61,20 +63,17 @@
   <!-- 感谢上面两位开发者. / Thanks to the two developers above. -->
   
   <p align="left">
-    <a href="https://github.com/Twisuki/HMOIndex">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=HMOIndex" alt="HMOIndex">
-    </a>
-    <a href="https://github.com/Twisuki/blog">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=blog" alt="blog">
+    <a href="https://github.com/qxng/weihuda_weapp_tsumiki">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qnxg&repo=weihuda_weapp_tsumiki" alt="HMOIndex">
     </a>
     <a href="https://github.com/Twisuki/homepage">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=homepage" alt="homepage">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=homepage" alt="blog">
     </a>
-    <a href="https://github.com/HMODeveloper/hmo_mms">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HMODeveloper&repo=hmo_mms" alt="hmo_mms">
+    <a href="https://github.com/Twisuki/ohday">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=ohday" alt="homepage">
     </a>
-    <a href="https://github.com/TZLakeStudio/Application">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TZLakeStudio&repo=Application" alt="Application">
+    <a href="https://github.com/Twisuki/HMOIndex">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=HMOIndex" alt="hmo_mms">
     </a>
   </p>
 </div>
