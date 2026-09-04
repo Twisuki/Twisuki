@@ -79,43 +79,58 @@
 </div>
 
 ## 近期动态 Recent Activity
+<!--CUSTOM_WAKA_START-->
+const totalSec = waka.all?.time ?? 0
+const codeHours = Math.floor(totalSec / 3600)
+const codeMins = Math.floor((totalSec % 3600) / 60)
+const codeHrUnit = codeHours === 1 ? 'hr' : 'hrs'
+const codeMinUnit = codeMins === 1 ? 'min' : 'mins'
+const codeTime = encodeURIComponent(
+  `${codeHours.toLocaleString('en-US')} ${codeHrUnit} ${codeMins} ${codeMinUnit}`
+)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%2045%20mins-blue?style=flat)
+const totalLines = (waka.all?.addition?.total ?? 0) + (waka.all?.deletion?.total ?? 0)
+const linesOfCode = encodeURIComponent(
+  (totalLines / 1000).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })
+)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-866.40%20thousand%20lines%20of%20code-blue?style=flat)
+const renderList = (items) => {
+  if (!items) return ''
+  const total = items.reduce((s, i) => s + i.time, 0)
+  return items.map(item => {
+    const h = Math.floor(item.time / 3600)
+    const m = Math.floor((item.time % 3600) / 60)
+    const hu = h === 1 ? 'hr' : 'hrs'
+    const mu = m === 1 ? 'min' : 'mins'
+    const time = h > 0 ? `${h} ${hu} ${m} ${mu}` : `${m} ${mu}`
+    const percent = total > 0 ? (item.time / total) * 100 : 0
+    const filled = Math.round(percent / 100 * 25)
+    const bar = '█'.repeat(filled) + '░'.repeat(25 - filled)
+    return `${item.name.padEnd(22)}${time.padEnd(17)}${bar}${(percent.toFixed(2) + ' %').padStart(8)}`
+  }).join('\n')
+}
 
-**I'm an Early 🐤** 
+const languagesText = renderList(languages.week)
+const editorsText = renderList(editors.week)
+
+const lastUpdated = new Date().toISOString().slice(0, 19).replace('T', ' ') + ' UTC'
+<!--CUSTOM_WAKA_END-->
+
+![Code Time](https://img.shields.io/badge/Code%20Time-{codeTime}-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-{linesOfCode}-thousand%20lines%20of%20code-blue?style=flat)
 
 ```text
-🌞 Morning                867 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-🌆 Daytime                1580 commits        █████████░░░░░░░░░░░░░░░░   35.17 % 
-🌃 Evening                1569 commits        █████████░░░░░░░░░░░░░░░░   34.92 % 
-🌙 Night                  477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Top Languages This Week:
+{languagesText}
+
+And Top Editors:
+{editorsText}
 ```
 
+Last Updated on {lastUpdated} UTC
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               11 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   30.71 % 
-Markdown                 9 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-Other                    7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-SCSS                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-
-🔥 Editors: 
-WebStorm                 22 hrs 53 mins      ████████████████░░░░░░░░░   62.84 % 
-Pi                       11 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   31.73 % 
-Claude Code              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Neovim                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-PyCharm                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-```
-
-
- Last Updated on 2026-09-04 02:16:55 UTC
-<!--END_SECTION:waka-->
+powered by [![Twisuki/custom_waka_readme](https://img.shields.io/badge/Twisuki-custom_waka_readme-blue?style=flat)](https://github.com/marketplace/actions/custom-waka-readme)
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake-dark.svg" />
