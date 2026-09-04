@@ -80,42 +80,50 @@
 
 ## 近期动态 Recent Activity
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%2045%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C368%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-866.40%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-900.71-thousand%20lines%20of%20code-blue?style=flat)
 
 ```text
-🌞 Morning                867 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-🌆 Daytime                1580 commits        █████████░░░░░░░░░░░░░░░░   35.17 % 
-🌃 Evening                1569 commits        █████████░░░░░░░░░░░░░░░░   34.92 % 
-🌙 Night                  477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Top Languages This Week:
+TypeScript            11 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░ 30.71 %
+Markdown              9 hrs 23 mins    ██████░░░░░░░░░░░░░░░░░░░ 25.79 %
+Other                 7 hrs 13 mins    █████░░░░░░░░░░░░░░░░░░░░ 19.84 %
+SCSS                  2 hrs 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░  5.91 %
+JSON                  1 hr 24 mins     █░░░░░░░░░░░░░░░░░░░░░░░░  3.86 %
+YAML                  1 hr 23 mins     █░░░░░░░░░░░░░░░░░░░░░░░░  3.82 %
+JavaScript            47 mins          █░░░░░░░░░░░░░░░░░░░░░░░░  2.16 %
+Erlang                32 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  1.49 %
+GitIgnore file        29 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  1.34 %
+Text                  26 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  1.21 %
+HTML                  13 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.62 %
+Git                   12 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.59 %
+Image (svg)           12 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.57 %
+Python                10 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.50 %
+CSS                   10 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.48 %
+TSConfig              7 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.33 %
+Bash                  6 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.30 %
+Git Config            3 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.17 %
+Prisma                2 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.10 %
+JSX                   1 min            ░░░░░░░░░░░░░░░░░░░░░░░░░  0.06 %
+TypeScript JSX        1 min            ░░░░░░░░░░░░░░░░░░░░░░░░░  0.06 %
+textmate              1 min            ░░░░░░░░░░░░░░░░░░░░░░░░░  0.05 %
+.env file             0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.03 %
+Docker                0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.01 %
+Shell Script          0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.01 %
+GraphQL               0 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.01 %
+
+And Top Editors:
+WebStorm              22 hrs 53 mins   ████████████████░░░░░░░░░ 62.84 %
+Pi                    11 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░ 31.73 %
+Claude Code           1 hr 1 min       █░░░░░░░░░░░░░░░░░░░░░░░░  2.81 %
+Neovim                45 mins          █░░░░░░░░░░░░░░░░░░░░░░░░  2.07 %
+PyCharm               12 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.55 %
 ```
 
+Last Updated on 2026-09-04 09:03:33 UTC UTC
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               11 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   30.71 % 
-Markdown                 9 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-Other                    7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-SCSS                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-
-🔥 Editors: 
-WebStorm                 22 hrs 53 mins      ████████████████░░░░░░░░░   62.84 % 
-Pi                       11 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   31.73 % 
-Claude Code              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Neovim                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-PyCharm                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-```
-
-
- Last Updated on 2026-09-04 02:16:55 UTC
-<!--END_SECTION:waka-->
+powered by [![Twisuki/custom_waka_readme](https://img.shields.io/badge/Twisuki-custom_waka_readme-blue?style=flat)](https://github.com/marketplace/actions/custom-waka-readme)
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Twisuki/Twisuki/output/github-contribution-grid-snake-dark.svg" />
