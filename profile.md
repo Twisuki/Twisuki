@@ -79,6 +79,7 @@
 </div>
 
 ## 近期动态 Recent Activity
+<!--WAKA_BLOG_SYNC_START-->
 <!--CUSTOM_WAKA_START-->
 const formatTime = (seconds) => {
   const h = Math.floor(seconds / 3600)
@@ -141,6 +142,7 @@ And Top Editors:
 ```
 
 Last Updated on {lastUpdated} UTC
+<!--WAKA_BLOG_SYNC_END-->
 
 powered by [![Twisuki/custom_waka_readme](https://img.shields.io/badge/Twisuki-custom_waka_readme-blue?style=flat)](https://github.com/marketplace/actions/custom-waka-readme)
 
