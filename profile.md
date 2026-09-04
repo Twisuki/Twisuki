@@ -63,17 +63,17 @@
   <!-- 感谢上面两位开发者. / Thanks to the two developers above. -->
   
   <p align="left">
-    <a href="https://github.com/qxng/weihuda_weapp_tsumiki">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qnxg&repo=weihuda_weapp_tsumiki" alt="HMOIndex">
+    <a href="https://github.com/qnxg/weihuda_weapp_tsumiki">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qnxg&repo=weihuda_weapp_tsumiki" alt="weihuda_weapp_tsumiki">
     </a>
     <a href="https://github.com/Twisuki/homepage">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=homepage" alt="blog">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=homepage" alt="homepage">
     </a>
     <a href="https://github.com/Twisuki/ohday">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=ohday" alt="homepage">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=ohday" alt="ohday">
     </a>
     <a href="https://github.com/Twisuki/HMOIndex">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=HMOIndex" alt="hmo_mms">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Twisuki&repo=HMOIndex" alt="HMOIndex">
     </a>
   </p>
 </div>
