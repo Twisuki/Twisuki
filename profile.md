@@ -80,6 +80,10 @@
 
 ## 近期动态 Recent Activity
 <!--WAKA_BLOG_SYNC_START-->
+<!--WAKA_ORIGIN_TIME_WEEK:{waka.week?.time ?? 0}-->
+<!--WAKA_ORIGIN_TIME_ALL:{waka.all?.time ?? 0}-->
+<!--WAKA_ORIGIN_LINES_WEEK:{(waka.week?.addition?.total ?? 0) + (waka.week?.deletion?.total ?? 0)}-->
+<!--WAKA_ORIGIN_LINES_ALL:{(waka.all?.addition?.total ?? 0) + (waka.all?.deletion?.total ?? 0)}-->
 <!--CUSTOM_WAKA_START-->
 const formatTime = (seconds) => {
   const h = Math.floor(seconds / 3600)
