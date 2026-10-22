@@ -14,11 +14,11 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: Twisuki/custom_waka_readme@v1
+      - uses: Twisuki/custom_waka_readme@v2
         with:
           profile_path: profile.md
           output_path: README.md
-          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
+          wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           commit_author: TwisWakaBot
           commit_email: 100500860+Twisuki@users.noreply.github.com
           commit_message: "feat: Update custom waka readme"
